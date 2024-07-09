@@ -157,7 +157,9 @@
 }
 .sevice_right img {
   margin-top: 70px;
-  margin-left: 14px;
+  margin-left: 64px;
+  width: 208px;
+  overflow: hidden;
 }
 .happy_box {
   margin: 0px 11px 30px 11px;
