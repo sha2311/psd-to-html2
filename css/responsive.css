@@ -1,0 +1,178 @@
+
+@media only screen and (min-width:200px) and (max-width:991px){
+    .nav_mini {
+        margin-left: 0%;
+        margin-top: 3px;
+        padding-right: 5%;
+    }
+    .nav_all a {
+
+        padding: 5px;
+
+    }
+    .img-fluid{
+        width: 88%;
+    }
+    .bg_section{
+        height: 660px;
+    }
+    .cab-left {
+      padding: 0px 34px 0px 0px;
+      margin-bottom: -115px;
+  }
+    .cab-left h2 {
+        font-size: 45px;
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px -10px 0px;
+      }
+      .cab-left h3 {
+        font-size: 30px;
+      }      
+      .resposive{
+        width: 68%;
+        margin-left: -40px;
+      }
+      .res_input{
+        margin-top: -99%;
+        margin-left: 98%;
+        margin-right: -67%;
+        padding-left: 0%;
+      }
+ 
+      .card {
+        margin: 60px 90px;
+      }
+      .card-star img {
+        margin-left: 185px;
+      }
+
+      .main_pickup {
+        height: 945px;
+      }
+      .service_left {
+        padding: 35px 114px;
+      }
+      .happy_box {
+        margin: 0px 30px 35px 25px;
+      }
+      .happy_client {
+        height: 745px;
+      }
+      .contact {
+        height: 785px;
+      }
+      .about_mt {
+        margin-top: 0px;
+      }
+      .footer_all{
+        height: 46px;
+      }
+
+}
+/* mobile responsive style */
+@media only screen and (min-width:200px) and (max-width:480px){
+
+  .bg_section {
+    height: 575px;
+}
+.navbar{
+  padding-top: 17px;
+}
+  .header_text h2 {
+    font-size: 60px;
+    margin-top: 5px;
+  }
+  .header_text p {
+    font-size: 21px;
+    margin: 17px 9px 0px 12px;
+    letter-spacing: 6px;
+}
+.resposive {
+  width: 100%;
+  margin-left: 0px;
+  margin-top: -65px;
+}
+.cab {
+  height: 1140px;
+}
+
+.cab-left h3 {
+  font-size: 38px;
+  margin-left: 0px;
+}
+.cab-left h2 {
+  font-size: 48px;
+  padding: 0px 0px 0px 5px;
+  margin: 0px -64px 0px -2px;
+}
+.res_input {
+  margin-top: 13%;
+  margin-left: 0%;
+  margin-right: 0%;
+  padding-left: 0%;
+}
+.read_more{
+  margin-top: -22px;
+}
+.card {
+  margin: 28px 20px 82px 20px;
+}
+.card img {
+  margin-top: -50px;
+}
+.tariffs_res{
+  margin: -50px 0px -50px 0px;
+}
+.card-star img {
+  margin-left: 106px;
+    width: 50px;
+}
+.pick_h2 {
+  font-size: 38px;
+}
+.card_body p {
+  padding: 0px 10px 0px 0px;
+}
+.card_body {
+  margin-left: 110px;
+}
+.card_star {
+  margin-left: 20px
+}
+.pick_h2 {
+  font-size: 38px;
+  margin-bottom: -35px;
+}
+.card_res1{
+  margin-bottom: -110px;
+}
+.main_pickup {
+  height: 1100px;
+}
+.service_left {
+  padding: 15px 18px;
+}
+.service_left img{
+  padding: 10px 40px;
+}
+.sevice_right img {
+  margin-top: 70px;
+  margin-left: 14px;
+}
+.happy_box {
+  margin: 0px 11px 30px 11px;
+}
+.happy_text {
+  text-align: center;
+  margin-top: 40px;
+}
+.happy_client {
+  height: 840px;
+}
+.contact {
+  height: 810px;
+}
+.footer_all {
+  height: 64px;
+}
+}
