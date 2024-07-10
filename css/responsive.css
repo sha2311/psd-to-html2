@@ -71,7 +71,9 @@
 }
 /* mobile responsive style */
 @media only screen and (min-width:200px) and (max-width:480px){
-
+  .img-fluid {
+    width: 90%;
+  }
   .bg_section {
     height: 575px;
 }
@@ -91,6 +93,7 @@
   width: 100%;
   margin-left: 0px;
   margin-top: -65px;
+  overflow: hidden;
 }
 .cab {
   height: 1140px;
@@ -176,5 +179,6 @@
 }
 .footer_all {
   height: 64px;
+  width: 375px;
 }
 }
