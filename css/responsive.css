@@ -179,6 +179,6 @@
 }
 .footer_all {
   height: 64px;
-  width: 375px;
+  overflow-x: hidden;
 }
 }
