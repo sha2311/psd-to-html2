@@ -1,5 +1,6 @@
 
 @media only screen and (min-width:200px) and (max-width:991px){
+
     .nav_mini {
         margin-left: 0%;
         margin-top: 3px;
@@ -123,16 +124,31 @@
 .card img {
   margin-top: -50px;
 }
+.main_pickup{
+
+  height: 1095px;
+}
+.service-info h3 {
+  font-size: 22px;
+}
+.service_left {
+  padding: 35px 30px;
+}
+.service_left h4 {
+  font-size: 20px;
+}
+.service-info h2 {
+  font-size: 30px;
+}
 .tariffs_res{
   margin: -50px 0px -50px 0px;
 }
 .card-star img {
-  margin-left: 91px;
+  margin-left: 106px;
   width: 50px;
 }
-}
-.pick_h2 {
-  font-size: 38px;
+.pick_h4 {
+  font-size: 23px;
 }
 .card_body p {
   padding: 0px 10px 0px 0px;
@@ -143,43 +159,31 @@
 .card_star {
   margin-left: 20px
 }
+
 .pick_h2 {
-  font-size: 38px;
+  font-size: 28px;
   margin-bottom: -35px;
 }
-.card_res1{
-  margin-bottom: -110px;
-}
-.main_pickup {
-  height: 1100px;
-}
-.service_left {
-  padding: 15px 18px;
-}
-.service_left img{
-  padding: 10px 40px;
-}
+
 .sevice_right img {
   margin-top: 70px;
   margin-left: 64px;
-  width: 208px;
   overflow: hidden;
 }
 .happy_box {
   margin: 0px 11px 30px 11px;
 }
-.happy_text {
-  text-align: center;
-  margin-top: 40px;
-}
 .happy_client {
-  height: 840px;
+  height: 890px;
 }
-.contact {
-  height: 810px;
-}
-.footer_all {
-  height: 64px;
+
+body{
   overflow-x: hidden;
+
+  
 }
+.container{
+  overflow-y: hidden;
+}
+
 }
