@@ -1,203 +1,125 @@
+@media screen and (max-width: 428px) {
 
-@media(max-width:991px){
-
-  .nav_mini {
+    .nav_mini {
       margin-left: 0%;
       margin-top: 3px;
       padding-right: 5%;
   }
   .nav_all a {
-
       padding: 5px;
-
   }
-  .img-fluid{
-      width: 88%;
+  .header_text h2 {
+    font-size: 65px;
   }
-  .bg_section{
-      height: 660px;
+  .header_text p {
+    font-size: 17px;
+    letter-spacing: 10px;
+ }
+  .header_car {
+    max-width: 88%;
+    height: auto;
+ }
+ .bg_section {
+  height: 565px;
   }
-  .cab-left {
-    padding: 0px 34px 0px 0px;
-    margin-bottom: -115px;
-}
-  .cab-left h2 {
-      font-size: 45px;
-      padding: 0px 0px 0px 0px;
-      margin: 0px 0px -10px 0px;
-    }
-    .cab-left h3 {
-      font-size: 30px;
-    }      
-    .resposive{
-      width: 68%;
-      margin-left: -40px;
-    }
-    .res_input{
-      margin-top: -99%;
-      margin-left: 98%;
-      margin-right: -67%;
-      padding-left: 0%;
-    }
+  .cab-left h3 {
+    font-size: 25px;
+ }
+ .cab-left {
+  padding: 25px;
+ }
+ .cab-left h2 {
+  font-size: 32px;
+ }
+ .resposive{
+  margin-top: -50px;
+ }
+ .cab-left p {
+  font-size: 14px;
+  margin: -20px 0px -10px 0px;
+ }
+ .res_input {
+  margin: -15% 5%;
+ }
+ .cab {
+  height: 897px;
+ }
 
-    .card {
-      margin: 60px 90px;
-    }
-  
-    .card-star img {
-      margin-left: 184px;
-    }
-    .main_pickup {
-      height: 945px;
-    }
-    .service_left {
-      padding: 35px 114px;
-    }
-    .happy_box {
-      margin: 0px 30px 35px 25px;
-    }
-    .happy_client {
-      height: 745px;
-    }
-    .contact {
-      height: 785px;
-    }
-    .about_mt {
-      margin-top: 0px;
-    }
-    .footer_all{
-      height: 46px;
-    }
+ .tariffs_res{
+  margin: -40px 0px;
+ }
+ .card {
+  margin: 45px 45px 60px 45px;
+  width: 78%;
+ }
+ .card-star img {
+  width: 17%;
+  margin-top: -17%;
+  margin-left: 33%;
+ }
+ .card h1 {
+  padding-bottom: 15px;
+ }
+ .card_res1 {
+  margin-bottom: -70px;
+ }
+ .card_body p {
+  font-size: 16px;
+  padding: 0px 27px 0px 0px;
+ }
+ .card_star img {
+  margin-left: 13px;
+ }
+ .res_best{
+  margin-top: -40px;
+ }
 
-}
+ .main_pickup {
+  height: 1088px;
+  padding: 0;
+ }
 
-@media(min-width:375px){
-  .card-star img {
-    margin-left: 82px;
-  }
-}
-/* mobile responsive style */
-@media(max-width:480px){
-.img-fluid {
-  width: 90%;
-}
-.bg_section {
-  height: 575px;
-}
-.navbar{
-padding-top: 17px;
-}
-.header_text h2 {
-  font-size: 60px;
-  margin-top: 5px;
-}
-.header_text p {
-  font-size: 21px;
-  margin: 17px 9px 0px 12px;
-  letter-spacing: 6px;
-}
-.resposive {
-width: 100%;
-margin-left: 0px;
-margin-top: -65px;
-overflow: hidden;
-}
-.cab {
-height: 1140px;
-}
-
-.cab-left h3 {
-font-size: 38px;
-margin-left: 0px;
-}
-.cab-left h2 {
-font-size: 48px;
-padding: 0px 0px 0px 5px;
-margin: 0px -64px 0px -2px;
-}
-.res_input {
-margin-top: 13%;
-margin-left: 0%;
-margin-right: 0%;
-padding-left: 0%;
-}
-.read_more{
-margin-top: -22px;
-}
-.card {
-margin: 28px 20px 82px 20px;
-}
-.card img {
-margin-top: -50px;
-}
-.main_pickup{
-
-height: 1095px;
-}
-.service-info h3 {
-font-size: 22px;
-}
-.service_left {
-padding: 35px 30px;
-}
-.service_left h4 {
-font-size: 20px;
-}
-.service-info h2 {
-font-size: 30px;
-}
-sevice_right img{
-  overflow-x: hidden;
-}
-.tariffs_res{
-margin: -50px 0px -50px 0px;
-}
-
-.pick_h4 {
-font-size: 23px;
-}
-.card_body p {
-padding: 0px 10px 0px 0px;
-}
-.card_body {
-margin-left: 110px;
-}
-.card_star {
-margin-left: 20px
-}
-.card-star img {
-  margin-left: 100px;
-  margin-top: -74px;
-}
-
-.pick_h2 {
-font-size: 28px;
-margin-bottom: -35px;
-}
-
-.sevice_right img {
-margin-top: 70px;
-margin-left: 64px;
-overflow-x: hidden;
-}
-.sevice_right{
-  overflow-x: hidden;
-}
-.happy_box {
-margin: 0px 11px 30px 11px;
-}
-.happy_client {
-height: 890px;
-}
-
-body{
-overflow-x: hidden;
-
-
-}
-.container{
-overflow-y: hidden;
-}
+ .service-info h2 {
+  font-size: 40px;
+ }
+ .service_left {
+  padding: 20px;
+ }
+ .sevice_right img {
+  margin-left: 77px;
+  width: 83%;
+ }
+ .happy_text h3 {
+  font-size: 33px;
+  margin-top: -35px;
+ }
+ .happy_mt {
+  margin-top: 20px;
+ }
+ .happy_box p {
+  font-size: 14px;
+  padding: 0px;
+  margin-left: 30px;
+ }
+ .happy_box {
+  padding: 8px 38px 35px 2px;
+  border-radius: 40px;
+  margin: 15px 18px;
+  width: 91%;
+ }
+ .happy_client {
+  height: 640px;
+ }
+ .contact {
+  height: 780px;
+  padding: 1px 0;
+ }
+ .footer p{
+  margin-bottom: 0;
+ }
 
 }
 
+
+
+ 
