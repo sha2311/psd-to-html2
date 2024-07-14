@@ -121,5 +121,66 @@
 }
 
 
+@media screen and (max-width: 327px) {
+  .header_text p {
+    font-size: 18px;
+    letter-spacing: 5px;
+ }
+ .header_text h2 {
+  font-size: 55px;
+  padding: 8px 0px;
+ }
+ .header_car {
+  max-width: 90%;
+  height: auto;
+  margin-top: -17px;
+ }
+ .bg_section {
+  height: 501px;
+ }
 
+ .card {
+  margin: 46px 45px 60px 15px;
+  width: 95%;
+ }
+
+ .card h1 {
+  padding-bottom: 0px;
+  font-size: 31px;
+ }
+ .cab {
+  height: 1007px;
+ }
+ .main_pickup {
+  height: 1340px;
+ }
+ .happy_text h2 {
+  font-size: 38px;
+ }
+ .happy_text h3 {
+  font-size: 30px;
+ }
+
+ .happy_client {
+  height: 810px;
+ }
+ .contact {
+  height: 825px;
+ }
+
+
+}
  
+@media screen and (min-width: 329px) and (max-width: 394px){
+  .bg_section {
+    height: 540px;
+  }
+  .cab {
+    height: 945px;
+   }
+
+
+  
+
+
+}
